@@ -13,13 +13,13 @@
 The data being utlized is coming from a Github database which can be found [here](https://raw.githubusercontent.com/fivethirtyeight/data/master/drug-use-by-age/drug-use-by-age.csv) 
 
 ## ☑️ Analysis and Calculations
- -Mean
- -Median
- -Standard Deviation
- -Max
+ -**Mean**
+ -**Median**
+ -**Standard Deviation** 
+ -**Max**
 
 
-# Some explanation and breakdown: 
+## ☑️ Explanation and Breakdown: 
 
 [main.py](main.py)
 
@@ -40,3 +40,6 @@ Function: A Makefile is used to automate tasks in software development, especial
 [test.py](test.py)
 
 Function: test.py is a script typically used to contain test cases for a project. It includes functions or classes designed to verify that the code works as expected. 
+
+## ☑️ Visualization: 
+![Visualization](Chart.png)
