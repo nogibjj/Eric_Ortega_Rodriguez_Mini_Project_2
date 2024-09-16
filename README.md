@@ -9,17 +9,19 @@
 3. Generate summary statistics (mean, median, standard deviation)
 4. Create at least one data visualization
 
+## ☑️ Deliverables:
+1. Python script 
+2. CI/CD with badge
+3. Generated summary report (PDF or markdown) via CI/CD for extra credit or making your own PDF or MD file and pushing it 
+
 ## ☑️ The Data Being Used
 The data being utlized is coming from a Github database which can be found [here](https://raw.githubusercontent.com/fivethirtyeight/data/master/drug-use-by-age/drug-use-by-age.csv) 
 
 ## ☑️ Analysis and Calculations
- -**Mean**
- -**Median**
- -**Standard Deviation** 
- -**Max**
+Summary statistics included are: Mean, Median, Standard Deviation, and Max. 
 
 
-## ☑️ Explanation and Breakdown: 
+## ☑️ Explanation and Breakdown of Repo Components: 
 
 [main.py](main.py)
 
@@ -27,7 +29,7 @@ Function: Main entry point of a project containing program.
 
 [requirements.txt](requirements.txt)
 
-Function: This file lists all the Python dependencies required for the project. It specifies the exact versions of packages needed, making it easy to install all dependencies with a single command.
+Function: This file lists all the Python dependencies required for the project. It specifies the exact versions of packages needed, making it easy to install all dependencies with a single command. For this project specifically, we will be using pandas and matplotlib. 
 
 [hello.yml](.github/workflows/hello.yml)
 
@@ -39,7 +41,7 @@ Function: A Makefile is used to automate tasks in software development, especial
 
 [test.py](test.py)
 
-Function: test.py is a script typically used to contain test cases for a project. It includes functions or classes designed to verify that the code works as expected. 
+Function: test.py is a script typically used to contain test cases for a project and data set. It includes functions or classes designed to verify that the code works as expected. 
 
 ## ☑️ Visualization: 
 ![Visualization](Chart.png)
