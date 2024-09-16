@@ -1,20 +1,22 @@
-# Eric_Ortega_Fall_2024_Data_Eng
-
 [![CI](https://github.com/nogibjj/Eric_Ortega_Fall_2024_Data_Eng/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Eric_Ortega_Fall_2024_Data_Eng/actions/workflows/hello.yml)
 
 
-# Details 
-This repository is used for our first Data Engineering Assignment. It will be used as a template for future assignments of IDS 706. This repo contains the following: 
+# Eric Ortega Rodriguez's Pandas Descriptive Statistics Script
 
+## ☑️ Requirements (Mini Project 2):
+1. Python script using Pandas for descriptive statistics
+2. Read a dataset (CSV or Excel)
+3. Generate summary statistics (mean, median, standard deviation)
+4. Create at least one data visualization
 
+## ☑️ The Data Being Used
+The data being utlized is coming from a Github database which can be found [here](https://raw.githubusercontent.com/fivethirtyeight/data/master/drug-use-by-age/drug-use-by-age.csv) 
 
-## The repository serves as a simple addition function
-Description: This script demonstrates a basic Python program that performs addition using a function called add. The main() function initializes two variables, x and y, and uses the add() function to calculate their sum.
-
-## How It Works
-The script defines an add(x, y) function that takes two arguments and returns their sum.
-The main() function initializes two integers (x = 1 and y = 2), calls the add() function with these values, and stores the result.
-If the script is run as the main program, the main() function is executed.
+## ☑️ Analysis and Calculations
+ -Mean
+ -Median
+ -Standard Deviation
+ -Max
 
 
 # Some explanation and breakdown: 
