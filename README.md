@@ -12,13 +12,15 @@
 ## ☑️ Deliverables:
 1. Python script 
 2. CI/CD with badge
-3. Generated summary report (PDF or markdown) via CI/CD for extra credit or making your own PDF or MD file and pushing it 
+3. Generated summary report (PDF or markdown) via CI/CD for extra credit or make your own PDF or MD file and push it 
 
 ## ☑️ The Data Being Used
-The data being utlized is coming from a Github database which can be found [here](https://raw.githubusercontent.com/fivethirtyeight/data/master/drug-use-by-age/drug-use-by-age.csv) 
+The data being utilized is coming from a GitHub database which can be found [here](https://raw.githubusercontent.com/fivethirtyeight/data/master/drug-use-by-age/drug-use-by-age.csv) 
+
+The data found here give the frequency breakdown of substance abuse among different age groups. 
 
 ## ☑️ Analysis and Calculations
-Summary statistics included are: Mean, Median, Standard Deviation, and Max. 
+Summary statistics included are Mean, Median, Standard Deviation, and Max. 
 
 
 ## ☑️ Explanation and Breakdown of Repo Components: 
