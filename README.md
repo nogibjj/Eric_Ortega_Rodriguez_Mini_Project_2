@@ -44,5 +44,6 @@ Function: A Makefile is used to automate tasks in software development, especial
 Function: test.py is a script typically used to contain test cases for a project and data set. It includes functions or classes designed to verify that the code works as expected. 
 
 ## ☑️ Visualization: 
-Highligths the frequency of alcohol use among different age groups.
+Highlights the frequency of alcohol use among different age groups.
+
 ![Visualization](Chart.png)
