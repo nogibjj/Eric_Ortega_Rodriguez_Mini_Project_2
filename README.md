@@ -1,5 +1,6 @@
 [![CI](https://github.com/nogibjj/Eric_Ortega_Fall_2024_Data_Eng/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Eric_Ortega_Fall_2024_Data_Eng/actions/workflows/hello.yml)
 
+[![CI](https://github.com/nogibjj/Eric_Ortega_Rodriguez_Mini_Project_2/actions/workflows/hello.yml/badge.svg)](https://github.com/nogibjj/Eric_Ortega_Rodriguez_Mini_Project_2/actions/workflows/hello.yml)
 
 # Eric Ortega Rodriguez's Pandas Descriptive Statistics Script
 
